@@ -7,7 +7,7 @@ Garage Band with OOP
 Kaitlin Davis | January 2024
 
 ## About
-
+This Python project models a musical band using object-oriented programming. The project features a base class, Musician, and several subclasses representing different types of musicians in a band, such as Guitarist, Bassist, and Drummer. 
 
 ## Tests
 I used pytest for this assignment. 
